@@ -1,13 +1,13 @@
 # Seaborn 
 
 Welcome to my **Seaborn Learning Repository**
-This repository contains my complete hands-on learning and exploration of **Seaborn**, a powerful data visualization library in Python built on top of Matplotlib.
+This repository contains my complete hands on learning and exploration of **Seaborn**, a powerful data visualization library in Python built on top of Matplotlib.
 
 ---
 
 ## About the Project
 
-This project documents my journey of mastering Seaborn — from basic plots to advanced visualization techniques.  
+This project documents my journey of mastering Seaborn from basic plots to advanced visualization techniques.  
 I explored how to use Seaborn for creating clean, attractive, and informative statistical graphics.
 
 The learning is divided into two main notebooks:
